@@ -20,6 +20,6 @@ Sistema de seguimiento: Permite seguir comunidades de juegos y temas específico
 
 Bandeja de notificaciones: Un sistema que recopila la actividad e interacciones de los usuarios, como likes en temas, comentarios o valoraciones en reseñas.
 
-Scroll infinito y avisos: Paginación de 20 en 20 elementos mediante IntersectionObserver y un indicador visual en el menú.
+Scroll infinito y avisos: Paginación de 20 en 20 elementos mediante IntersectionObserver y un indicador visual en el menú. 
 
-Cualquier comentario o sugerencia para estructurar mejor el código en futuros proyectos es bienvenido.
+Esto es todo por ahora. Continuaré en el otro proyecto que he empezado, más ordenado y profesional. ¡Muchas gracias!

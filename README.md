@@ -1,22 +1,25 @@
 # CheckPoint---App-de-Videojuegos.
-🎮 CheckPoint — Red Social & Base de Datos de Videojuegos
-¡Bienvenido/a a mi primer gran proyecto de desarrollo web! CheckPoint es una red social y aplicación interactiva diseñada por y para amantes de los videojuegos, pensada para explorar títulos, gestionar colecciones, descubrir multimedia y compartir opiniones con la comunidad.
+🎮 Checkpoint
+Este es Checkpoint, mi primer proyecto de programación. Es un desarrollo hecho desde cero, con google Script sin modularizar mucho, todo en una estructura gigante jaja. Sé que el código mejoraría mucho con una arquitectura más limpia, pero funciona y le he dedicado muchísimas horas.
 
-🚀 ¿Qué hay detrás de este proyecto?
-Este repositorio marca un antes y un después en mi aprendizaje como desarrollador, ya que representa mi primer proyecto complejo desarrollado de forma monolítica (sin modular), lo que supuso un reto gigante de lógica, estructuración y control del DOM.
+La idea principal era montar una web para explorar juegos, crear comunidades, dejar reseñas y mantener un perfil propio. El proyecto se ha quedado sin terminar tal cual está, ya que he abierto otro proyecto con el mismo fin pero esta vez modularizando y haciéndolo todo mucho más ordenado.
 
-Aunque es un proyecto vivo que todavía se encuentra en desarrollo, cuenta con un avance muy sólido y funcional. Para llevarlo a cabo, he contado con el apoyo y la colaboración activa de Gemini como asistente de código para refinar la interfaz, optimizar la carga de datos y solucionar retos técnicos complejos.
+🛠️️ Tecnologías que he utilizado
+HTML, CSS y JavaScript (Vanilla): Sin librerías ni frameworks complejos. Todo hecho a mano para entender cómo funciona la manipulación del DOM y la lógica por debajo.
 
-🛠️ Tecnologías y Stack
-Frontend Dinámico: HTML5, CSS3 avanzado (efectos Glassmorphism, diseño adaptativo y modales inmersivos) y JavaScript puro para la manipulación del DOM y renderizado de componentes.
+Tailwind CSS: Para diseñar la interfaz y mantener un estilo visual oscuro y limpio de forma rápida.
 
-API de IGDB (Internet Game Database): Conexión en tiempo real para extraer metadatos de juegos, carátulas en máxima resolución (t_original), sinopsis y galerías de capturas adaptativas.
+Firebase (Auth y Firestore): Para la autenticación de usuarios y la persistencia de datos en la nube (guardar perfiles, seguimientos e interacciones).
 
-Firebase: Utilizado como núcleo de backend para la gestión de bases de datos, autenticación y persistencia de estados de usuario.
+IGDB API: Conectada para obtener toda la información de los juegos, carátulas y metadatos oficiales.
 
-✨ Características Principales
-Ficha Técnica Interactiva: Desglose visual de plataformas, géneros, fechas de lanzamiento y desarrolladores acompañados de iconografía vectorial limpia.
+Gemini: La he usado como apoyo durante todo el proceso para resolver errores de la consola, depurar código y entender cómo implementar la lógica de algunas funciones.
 
-Sistema Multimedia & Fondos Dinámicos: Extracción automática de fondos inmersivos basados en las capturas y artworks oficiales de los juegos.
+✨ Funcionalidades principales
+Sistema de seguimiento: Permite seguir comunidades de juegos y temas específicos guardando el estado directamente en Firebase.
 
-Sección de Reseñas de la Comunidad: Sistema de pestañas dinámicas con gestión de estados vacíos interactivos y filtros preparados para la interacción de los usuarios.
+Bandeja de notificaciones: Un sistema que recopila la actividad e interacciones de los usuarios, como likes en temas, comentarios o valoraciones en reseñas.
+
+Scroll infinito y avisos: Paginación de 20 en 20 elementos mediante IntersectionObserver y un indicador visual en el menú.
+
+Cualquier comentario o sugerencia para estructurar mejor el código en futuros proyectos es bienvenido.

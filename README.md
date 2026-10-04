@@ -1,6 +1,6 @@
 # CheckPoint---App-de-Videojuegos.
 🎮 Checkpoint
-Este es Checkpoint, mi primer proyecto de programación. Es un desarrollo hecho desde cero, con google Script sin modularizar mucho, todo en una estructura gigante jaja. Sé que el código mejoraría mucho con una arquitectura más limpia, pero funciona y le he dedicado muchísimas horas.
+Este es Checkpoint, mi primer proyecto de programación para movil. Es un desarrollo hecho desde cero, con google Script sin modularizar mucho, todo en una estructura gigante jaja. Sé que el código mejoraría mucho con una arquitectura más limpia, pero funciona y le he dedicado muchísimas horas.
 
 La idea principal era montar una web para explorar juegos, crear comunidades, dejar reseñas y mantener un perfil propio. El proyecto se ha quedado sin terminar tal cual está, ya que he abierto otro proyecto con el mismo fin pero esta vez modularizando y haciéndolo todo mucho más ordenado.
 

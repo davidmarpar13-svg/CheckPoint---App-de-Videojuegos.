@@ -1,4 +1,7 @@
 # CheckPoint---App-de-Videojuegos.
+Web (Esta en diseño movil): https://script.google.com/macros/s/AKfycbxpk2go6mLX9Dckk6s0ciLMZvgzkd7ovtTpPetDZOMwLFsguG8K8hheMh-ik2UlQZ30/exec
+Correo: david.marpar13@gmail.com
+Contraseña: 12345678
 🎮 Checkpoint
 Este es Checkpoint, mi primer proyecto de programación para movil. Es un desarrollo hecho desde cero, con google Script sin modularizar mucho, todo en una estructura gigante jaja. Sé que el código mejoraría mucho con una arquitectura más limpia, pero funciona y le he dedicado muchísimas horas.
 
